@@ -1,0 +1,32 @@
+.card img {
+    width: 200px;
+    height: 200px;
+}
+.card {
+}
+.card .product {
+    text-decoration: none;
+}
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+.card:hover .card-title {
+    color: #3f51b5;
+}
+.list-product {
+    list-style: none;
+    min-height: 600px;
+}
+.list-product li {
+    width: 25%;
+    height: 350px;
+    display: inline-flex;
+    margin-bottom: 20px;
+    align-items: center;
+    padding: 20px 0;
+}
+.price {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}

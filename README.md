@@ -1,3 +1,17 @@
+# themoviedb.org
+#omdbapi.com
+#KNOWLEDGE
+1. MATERIAL UI ( Tooltip , IconButton , Button , Page , MobileStepper , Dropdown-menu , skeleton (not apply)  ...) 
+2. REACT ROUTER DOM (useParams , useHistory , route , ...)
+3. REACT HOOKS (useState , useEffect with array dependencies ,  ...)
+3. package REACT-REDUX (useDispatch , useSelector , Provider ... )
+4. REDUX TOOL KIT (createSlice , configureStore ... )
+5. LIB notistack helps show notification easy , fast , convenient .
+6. Web server using EXPRESS JS 
+
+
+# example for admin page https://www.creative-tim.com/blog/web-development/best-reactjs-project-examples/
+# rafcp : tạo nhanh
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
